@@ -4,7 +4,7 @@ https://git-scm.com/
 
 ## Clone the repository:
 
-git clone https://github.com/gabrielaacha/zamagana_synth  
+git clone https://github.com/marcelosperalta/study_git
 
 ## Create a new branch:
 
