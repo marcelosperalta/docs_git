@@ -8,7 +8,9 @@ git clone https://github.com/marcelosperalta/study_git
 
 ## Create a new branch:
 
-git checkout -n ```<branch_name>```  
+```
+git checkout -n <branch_name>
+```
   
 e.g.  
 
