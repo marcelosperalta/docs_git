@@ -30,20 +30,29 @@ git checkout marcelo
 
 git branch  
 
-## Update your branch with the master branch:
+##  Update your branch with the latest master branch version (merge).
 
-Checkout each branch:  
-git checkout b1  
+references:
+https://remarkablemark.org/blog/2017/06/02/git-update-branch/
+https://rogerdudler.github.io/git-guide/index.pt_BR.html
 
-Then merge:  
-git merge origin/master  
+- to switch to branch "master":
 
-Then push:  
-git push origin b1  
+git checkout master
 
-With rebase use the following commands:  
-git fetch  
-git rebase origin/master  
+- to check your current branch:
+
+git branch
+
+- to update your local master branch with the GitHub master's branch:
+
+git pull
+
+- to merge your local personal branch (e.g. "marcelo") with the local master branch that was updated:
+
+git checkout marcelo
+
+git merge master
 
 ## Abort merge:
 
@@ -61,17 +70,19 @@ git add filename.html
 git commit -m "your comment..."  
 git push origin marcelo  
 
-## Update you local master branch:
+## Undo push and commits
 
-git checkout master  
-git pull  
+reference:
+https://gist.github.com/HashNuke/608259
 
-## Update your local branchs with master branch data and update remote branches:
+- to undo a git push:
 
-git checkout <yourbranchname>  
-git merge origin/master  
-git push origin <yourbranchname>  
+git push -f origin HEAD^:master
 
-## Revert your last commit:
+- to get to previous commit (preserves working tree)
 
-git reset --hard HEAD~1  
+git reset --soft HEAD
+
+- to get back to previous commit (you'll lose working tree)
+
+git reset --hard HEAD^
