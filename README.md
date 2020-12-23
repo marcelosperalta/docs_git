@@ -62,18 +62,18 @@ git merge --abort
 
 git add .  
 git commit -m "your comment..."  
-git push origin marcelo  
+git push origin ```<branch_name>```  
 
 ## Update your branch with a specific file:
 
 git add filename.html  
 git commit -m "your comment..."  
-git push origin marcelo  
+git push origin ```<branch_name>```  
 
 ## Undo push and commits
 
-reference:
-https://gist.github.com/HashNuke/608259
+reference:  
+https://gist.github.com/HashNuke/608259  
 
 - to undo a git push:
 
