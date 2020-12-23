@@ -32,9 +32,9 @@ git branch
 
 ##  Update your branch with the latest master branch version (merge).
 
-references:
-https://remarkablemark.org/blog/2017/06/02/git-update-branch/
-https://rogerdudler.github.io/git-guide/index.pt_BR.html
+references:  
+https://remarkablemark.org/blog/2017/06/02/git-update-branch/  
+https://rogerdudler.github.io/git-guide/index.pt_BR.html  
 
 - to switch to branch "master":
 
