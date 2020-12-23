@@ -4,7 +4,9 @@ https://git-scm.com/
 
 ## Clone the repository:
 
+```
 git clone https://github.com/marcelosperalta/study_git
+```
 
 ## Create a new branch:
 
@@ -14,19 +16,27 @@ git checkout -n <branch_name>
   
 e.g.  
 
+```
 git checkout -n marcelo  
+```
 
 ## List branch(es) (usually the branch that you are using has a "*"):
 
+```
 git branch  
+```
 
 ## Access a branch:
 
-git checkout ```<branch_name>``` 
+```
+git checkout <branch_name>
+``` 
   
 e.g.  
 
+```
 git checkout marcelo  
+```
 
 ## Confirm what branch you are:
 
