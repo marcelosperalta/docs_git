@@ -23,7 +23,7 @@
 <br>
 <a href="#undo-push-and-commits">Undo push and commits</a>
 <br>
-<a href="#clone-the-repository">Compare two branches</a>
+<a href="#compare-two-branches">Compare two branches</a>
 <br>
 <br>
 
