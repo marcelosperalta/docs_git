@@ -7,7 +7,7 @@
 <br>
 <a href="#create-a-new-branch">Create a new branch</a>
 <br>
-<a href="#list-branches">List branch(es)</a>
+<a href="#list-branches">List branches</a>
 <br>
 <a href="#access-a-branch">Access a branch</a>
 <br>
@@ -45,7 +45,7 @@ e.g.
 git checkout -n marcelo  
 ```
 
-## List branch(es):
+## List branches:
 
 ```
 git branch  
