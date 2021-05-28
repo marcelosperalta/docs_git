@@ -1,6 +1,6 @@
 # Git tips
 
-https://git-scm.com/  
+🔗 https://git-scm.com/  
 
 <br>
 <a href="#clone-the-repository">Clone the repository</a>
