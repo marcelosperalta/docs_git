@@ -13,7 +13,7 @@
 <br>
 <a href="#confirm-what-branch-you-are">Confirm what branch you are</a>
 <br>
-<a href="#update-your-branch-with-the-latest-master-branch-version-merge">Update your branch with the latest master branch version (merge)</a>
+<a href="#merge">Merge</a>
 <br>
 <a href="#abort-merge">Abort merge</a>
 <br>
@@ -71,7 +71,9 @@ git checkout marcelo
 git branch  
 ```
 
-##  Update your branch with the latest master branch version (merge):
+##  Merge:
+
+Update your branch with the latest master branch version  
 
 _references:_  
 https://remarkablemark.org/blog/2017/06/02/git-update-branch/  
