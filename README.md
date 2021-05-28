@@ -7,13 +7,23 @@
 <br>
 <a href="#create-a-new-branch">Create a new branch</a>
 <br>
-<a href="#list-branches-usually-the-branch-that-you-are-using-has-a-">Clone the repository</a>
+<a href="#list-branches">List branch(es)</a>
 <br>
-<a href="#clone-the-repository">Clone the repository</a>
+<a href="#access-a-branch">Access a branch</a>
 <br>
-<a href="#clone-the-repository">Clone the repository</a>
+<a href="#confirm-what-branch-you-are">Confirm what branch you are</a>
 <br>
-<a href="#clone-the-repository">Clone the repository</a>
+<a href="#update-your-branch-with-the-latest-master-branch-version-merge">Update your branch with the latest master branch version (merge)</a>
+<br>
+<a href="#abort-merge">Abort merge</a>
+<br>
+<a href="#update-your-branch">Update your branch</a>
+<br>
+<a href="#update-your-branch-with-a-specific-file">Update your branch with a specific file</a>
+<br>
+<a href="#undo-push-and-commits">Undo push and commits</a>
+<br>
+<a href="#clone-the-repository">Compare two branches</a>
 <br>
 <br>
 
@@ -138,4 +148,14 @@ git reset --soft HEAD
 
 ```
 git reset --hard HEAD^
+```
+
+## Compare two branches:
+
+```
+git diff branch1..branch2
+```
+
+```
+git diff branch1...branch2
 ```
