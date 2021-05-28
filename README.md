@@ -2,10 +2,9 @@
 
 https://git-scm.com/  
 
-<p>
-  <a href="#clone-the-repository:">Clone the repository:</a>&nbsp;&nbsp;&nbsp;:black_small_square:&nbsp;&nbsp;&nbsp;
-  <a href="#create-a-new-branch:">Create a new branch:</a>&nbsp;&nbsp;&nbsp;:black_small_square:&nbsp;&nbsp;&nbsp;
-</p>
+<a href="#clone-the-repository">Clone the repository:</a>
+<br>
+<a href="#create-a-new-branch">Create a new branch:</a>
 
 ## Clone the repository:
 
