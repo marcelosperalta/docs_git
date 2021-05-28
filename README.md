@@ -152,6 +152,9 @@ git reset --hard HEAD^
 
 ## Compare two branches:
 
+_reference:_  
+https://devconnected.com/how-to-compare-two-git-branches/  
+
 ```
 git diff branch1..branch2
 ```
