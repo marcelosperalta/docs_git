@@ -7,6 +7,14 @@
 <br>
 <a href="#create-a-new-branch">Create a new branch</a>
 <br>
+<a href="#list-branches-usually-the-branch-that-you-are-using-has-a-">Clone the repository</a>
+<br>
+<a href="#clone-the-repository">Clone the repository</a>
+<br>
+<a href="#clone-the-repository">Clone the repository</a>
+<br>
+<a href="#clone-the-repository">Clone the repository</a>
+<br>
 <br>
 
 ## Clone the repository:
@@ -27,11 +35,13 @@ e.g.
 git checkout -n marcelo  
 ```
 
-## List branch(es) (usually the branch that you are using has a "*"):
+## List branch(es):
 
 ```
 git branch  
 ```
+
+_usually the branch that you are using has a "*"_  
 
 ## Access a branch:
 
