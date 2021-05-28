@@ -4,7 +4,9 @@ https://git-scm.com/
 
 <br>
 <a href="#clone-the-repository">Clone the repository</a>
+<br>
 <a href="#create-a-new-branch">Create a new branch</a>
+<br>
 <br>
 
 ## Clone the repository:
