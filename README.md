@@ -3,6 +3,8 @@
 🔗 https://git-scm.com/  
 
 <br>
+<a href="#ssh-keys">SSH keys</a>
+<br>
 <a href="#clone-the-repository">Clone the repository</a>
 <br>
 <a href="#create-a-new-branch">Create a new branch</a>
@@ -26,6 +28,11 @@
 <a href="#compare-two-branches">Compare two branches</a>
 <br>
 <br>
+
+## SSH keys:
+
+[Checking for existing SSH keys](https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh/checking-for-existing-ssh-keys)  
+[Generating a new SSH key and adding it to the ssh-agent](https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent#about-ssh-key-generation)  
 
 ## Clone the repository:
 
