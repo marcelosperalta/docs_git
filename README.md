@@ -2,6 +2,8 @@
 
 🔗 https://git-scm.com/  
 
+## Table of Contents:
+
 <br>
 <a href="#ssh-keys">SSH keys</a>
 <br>
